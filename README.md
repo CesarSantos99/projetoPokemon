@@ -1,5 +1,7 @@
 # Pokemon
 
+De uma olhadinha: https://projeto-pokemon-beta.vercel.app/
+
 ## Tecnologias usadas:
 
 <ul>
